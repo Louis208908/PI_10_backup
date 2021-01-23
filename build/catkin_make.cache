@@ -1,0 +1,2 @@
+aruco_pose:cupDetection:ddynamic_reconfigure:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:robot_setup_tf:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
